@@ -24,7 +24,9 @@ market feasibility, risk level, profit potential, and daily-life usefulness.
 - JavaScript
 
 ## Live Demo
-🔗 https://your-username.github.io/your-repository-name/
+🔗
+https://sruthi007916.github.io/AI-Chatbot/
+
 
 ## How to Use
 1. Open the live demo link
